@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNASolitaire", "XNASolitaire\XNASolitaire\XNASolitaire.csproj", "{581A46FD-9117-4BA9-BD88-D844E406649F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "XNASolitaireContent", "XNASolitaire\XNASolitaireContent\XNASolitaireContent.contentproj", "{7CDCFA6F-5C68-4766-8110-FDE99E6229E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{7CDCFA6F-5C68-4766-8110-FDE99E6229E4}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{7CDCFA6F-5C68-4766-8110-FDE99E6229E4}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
