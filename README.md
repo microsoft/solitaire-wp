@@ -31,17 +31,9 @@ Important files and classes
 Related documentation
 -------------------------------------------------------------------------------
 
-Getting Started Guide:
-http://create.msdn.com/en-us/home/getting_started
-
-Learn About Windows Phone 7 Development:
-http://msdn.microsoft.com/fi-fi/ff380145
-
-App Hub, develop for Windows Phone:
-http://create.msdn.com
-
-Game Development:
-http://create.msdn.com/en-us/education/gamedevelopment
+* Getting Started Guide: http://create.msdn.com/en-us/home/getting_started
+* Learn About Windows Phone 7 Development: http://msdn.microsoft.com/fi-fi/ff380145
+* Game Development: http://create.msdn.com/en-us/education/gamedevelopment
 
 
 Version history
