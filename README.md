@@ -4,7 +4,7 @@ Solitaire XNA Example
 This example application demonstrates how to use XNA Game Studio 4.0 on
 Windows Phone 7 using 2D Solitaire card textures.
 
-![Screenshot](https://github.com/nokia-developer/solitaire-wp/raw/master/doc/screenshots/xnasolitaire_2.png)
+![Screenshot](/doc/screenshots/xnasolitaire_2.png?raw=true)
 
 The example has been developed with Microsoft Visual Studio 2012 Express for
 Windows Phone and tested to work on Windows Phone 7 and Windows Phone 8.
